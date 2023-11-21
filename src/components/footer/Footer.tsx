@@ -1,8 +1,11 @@
-import React from 'react'
+import './footer.scss'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className='footer'>
+      <span>Mat Admin</span>
+      <span>Mat Admin Dashboard</span>
+    </div>
   )
 }
 
