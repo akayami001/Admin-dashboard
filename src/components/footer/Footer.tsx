@@ -1,10 +1,10 @@
-import './footer.scss'
+import "./footer.scss"
 
 const Footer = () => {
   return (
-    <div className='footer'>
-      <span>Mat Admin</span>
-      <span>Mat Admin Dashboard</span>
+    <div className="footer">
+      <span>matadmin</span>
+      <span>© MaT Dev Admin Dashboard</span>
     </div>
   )
 }
